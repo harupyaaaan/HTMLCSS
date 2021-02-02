@@ -16,17 +16,17 @@ header {
   border-bottom: 1px solid #848282;
   border-top: 1px solid #848282;
 }
-.main {
-  width: 800px;
-  margin: 50px;
-  display: flex;
-  flex-wrap: wrap;
-}
 
 .nav-list-item {
   list-style: none;
   display: inline-block;
   margin: 0 20px;
+}
+.main {
+  width: 800px;
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap;
 }
 .box1 {
   width: 200px;
